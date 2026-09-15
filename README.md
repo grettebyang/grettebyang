@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello!
+My name is Grette Yang, and I am a game programmer/developer, with a special interest in music and rhythm gameplay mechanics. 🎵
+
+### 📚 Projects
+🐶 Line Out
+<br> 🍽 Banquets
+
+### 💻 Skills
+Languages: C++, C#, C, Java, Python, UE Angelscript
+<br> Game Engines: Godot, Unreal Engine, Gamemaker, Unity
+<br> DAWs: Reaper, Audacity
+
 
 <!--
 **grettebyang/grettebyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
