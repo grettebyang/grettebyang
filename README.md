@@ -3,7 +3,7 @@ My name is Grette Yang, and I am a game programmer/developer, with a special int
 
 ### 📚 Projects
 🐶 [Line Out](https://github.com/grettebyang/Line-Out.git)
-<br> 🍽 Banquets
+<br> 🍽 [Banquets](https://github.com/grettebyang/Banquets)
 
 ### 💻 Skills
 Languages: C++, C#, C, Java, Python, UE Angelscript
