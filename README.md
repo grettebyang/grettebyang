@@ -10,6 +10,9 @@ Languages: C++, C#, C, Java, Python, UE Angelscript
 <br> Game Engines: Godot, Unreal Engine, Gamemaker, Unity
 <br> DAWs: Reaper, Audacity
 
+### ✉️ Contact
+[Linkedin](https://www.linkedin.com/in/grette-yang-b76123212/)
+<br> grettebyang@gmail.com
 
 <!--
 **grettebyang/grettebyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
